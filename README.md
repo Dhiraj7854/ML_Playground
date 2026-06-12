@@ -4,7 +4,7 @@ An interactive Streamlit app to explore machine learning classifiers on real dat
 Pick a dataset, tune hyperparameters, and see results instantly — no code required.
 
 ## 🚀 Live Demo
-> Deploy to [Streamlit Community Cloud](https://streamlit.io/cloud) and add your link here.
+> Deploy to [Streamlit Community Cloud](https://model-interaction.streamlit.app/) and add your link here.
 
 ---
 
